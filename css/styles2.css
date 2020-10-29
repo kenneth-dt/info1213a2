@@ -1,0 +1,65 @@
+html body {
+  background-color: #e4e3e3;
+  color: #40514E;
+  text-align: center;
+}
+
+h1 {
+  color: #84a9ac;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2{
+  color: #204051;
+  font-family: 'Syne', sans-serif;
+}
+
+h3, h4 {
+  color: #3b6978;
+  font-family: 'Syne', sans-serif;
+}
+
+p {
+  color: #40514E;
+  font-family: 'Syne', sans-serif;
+}
+
+hr {
+  background-color: #f7dad9;
+  border: none;
+  height: 4px;
+  border-radius: 2rem;
+}
+html a {
+  color: #3b6978;
+  text-decoration: none;
+}
+html a:hover {
+  color: #888;
+  text-decoration: none;
+}
+
+
+/* Class Selectors */
+
+html .head {
+  background-color: #e4e3e3;
+}
+
+.program {
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+}
+
+/* ID Selectors */
+
+#jumbo {
+  text-align: left;
+}
+
+#hobbies {
+  text-align: center;
+}

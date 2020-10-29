@@ -1,0 +1,170 @@
+/*************************** TAG SELECTORS ****************************/
+html body {
+  background-color: #e4e3e3;
+  color: #40514E;
+  margin: 0;
+}
+
+h1 {
+  color: #84a9ac;
+  margin: auto auto 0 auto;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+  color: #204051;
+  font-family: 'Syne', sans-serif;
+  margin-bottom: 0;
+}
+
+h3 {
+  color: #3b6978;
+  font-family: 'Syne', sans-serif;
+  margin: 0;
+  margin-top: 5px;
+  padding: 0;
+}
+
+h4 {
+  color: #3b6978;
+  font-weight: normal;
+  font-family: 'Syne', sans-serif;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+form {
+  color: #3b6978;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+hr {
+  background-color: #84a9ac;
+  border: none;
+  height: 4px;
+  border-radius: 2rem;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+/*************************** CLASS SELECTORS ****************************/
+.top-container {
+  position: relative;
+  margin: 20px;
+}
+
+.profile-pic {
+  border-radius: 100px;
+  float: left;
+  margin-right: 20px;
+  width: 20%;
+}
+
+.info a {
+  color: #3b6978;
+  text-decoration: none;
+}
+
+.info a:hover {
+  color: #888;
+}
+
+.info p {
+  color: #637373;
+  margin-top: 10px;
+  font-family: 'Syne', sans-serif;
+}
+
+.education {
+  font-family: 'Syne', sans-serif;
+  clear: left;
+  margin-top: 20px;
+  width: 50%;
+}
+
+.education table {
+  padding-left: 20px;
+}
+
+.education thead {
+  color: #3b6978;
+}
+
+.example {
+  position: absolute;
+}
+
+.example img{
+  border: none;
+  width: 40rem;
+}
+
+.skills {
+  font-family: 'Merriweather Sans', sans-serif;
+  width: 50%;
+}
+
+.skills ul {
+  margin-top: 0;
+}
+
+.experience {
+  position: relative;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: normal;
+}
+
+.experience p {
+  margin: 10px 0 0 0;
+}
+
+.bottom-line {
+  margin: auto 20px;
+}
+
+.bottom-container {
+  margin: 20px;
+}
+
+.submit {
+  border: none;
+  border-radius: 20px;
+  background-color: #84a9ac;
+  font-family: 'Syne', sans-serif;
+}
+
+.submit:hover {
+  background-color: white;
+}
+
+.foot {
+  background-color: #84a9ac;
+  margin: 0;
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.foot a {
+  color: #3b6978;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding: 20px;
+  text-decoration: none;
+  top: 7.5px;
+}
+
+.foot a:hover {
+  color: white;
+}
+
+.foot p {
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 15px 0 0;
+  font-size: 0.8rem;
+}
+
+/*************************** ID SELECTORS ****************************/
